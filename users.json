@@ -1,0 +1,8 @@
+{
+  "demo": {
+    "password_hash": "$pbkdf2-sha256$29000$aa2VEuJ8z3mPUar1XosRwg$VDm.txD4HO.0ZEIGNF1ubB2/mSlQ8nlEDxXFpOjpjMU"
+  },
+  "Pilot": {
+    "password_hash": "$pbkdf2-sha256$29000$9H6vdW5trXVOKUVorRVCCA$aGvPGTPDcD56221tR7LcXz8LjNLO4woFKGcswKZOk40"
+  }
+}
